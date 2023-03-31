@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Enrollment", "Enrollment.vbproj", "{20BE15CE-1E84-42D7-8D28-3D4DA7FB2106}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Enroll", "..\Enroll\Enroll.vbproj", "{97015BE1-7229-4F42-8D7F-8401D0492064}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20BE15CE-1E84-42D7-8D28-3D4DA7FB2106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20BE15CE-1E84-42D7-8D28-3D4DA7FB2106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20BE15CE-1E84-42D7-8D28-3D4DA7FB2106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20BE15CE-1E84-42D7-8D28-3D4DA7FB2106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97015BE1-7229-4F42-8D7F-8401D0492064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97015BE1-7229-4F42-8D7F-8401D0492064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97015BE1-7229-4F42-8D7F-8401D0492064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97015BE1-7229-4F42-8D7F-8401D0492064}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C39B038C-31EE-4913-8F82-16F5B5886BBB}
+	EndGlobalSection
+EndGlobal
